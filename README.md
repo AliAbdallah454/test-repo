@@ -1,3 +1,3 @@
 # Git Course
 
-Hello from AA
+Hello from AA.
